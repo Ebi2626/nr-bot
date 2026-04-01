@@ -1,0 +1,8 @@
+name: nr-bot
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python-dotenv
+  - pip:
+    - aiogram
