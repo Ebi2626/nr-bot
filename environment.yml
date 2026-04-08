@@ -4,5 +4,6 @@ channels:
   - defaults
 dependencies:
   - python-dotenv
+  - redis
   - pip:
     - aiogram

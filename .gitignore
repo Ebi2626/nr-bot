@@ -1,2 +1,4 @@
 .env
 /venv
+plan_bota_telegram_v2*
+*.pyc
